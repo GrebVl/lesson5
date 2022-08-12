@@ -36,7 +36,7 @@ Console.WriteLine();
 
 int sum = 0;
 
-for (int count = 0; count < length; count++)
+for (int count = 1; count < length; count += 2)
 {
     if (count % 2 > 0)
     {
