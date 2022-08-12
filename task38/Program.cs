@@ -48,4 +48,4 @@ for (int count = 0; count < size; count++)
 }
 Console.WriteLine("Max = " + max);
 Console.WriteLine("Min = " + min);
-Console.WriteLine("Max + Min = " + (max + min));
+Console.WriteLine("Max - Min = " + (max - min));
